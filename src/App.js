@@ -5,7 +5,7 @@ import NotFound from "./pages/NotFound";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 import Alert from "./components/layout/Alert";
-import User from "./components/layout/User";
+import User from "./pages/User";
 import { GithubProvider } from "./context/github/GithubContext";
 import { AlertProvider } from "./context/alert/AlertContext";
 import GithubContext from "./context/github/GithubContext";
